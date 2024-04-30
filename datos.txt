@@ -1,0 +1,4 @@
+Numero de tarjeta: 123456789
+clave: 123
+DNI: 7894561
+cvv: 147
